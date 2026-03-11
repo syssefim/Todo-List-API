@@ -1,3 +1,3 @@
 # Todo-List-API
 
-A RESTful API built to allow users to securely manage their to-do lists.
+Project from roadmap.sh for a RESTful API built to allow users to securely manage their to-do lists.
